@@ -1,19 +1,19 @@
 {
   "mappings": [
-    "/content/test2/language-masters/en:/",
-    "/content/test2/language-masters/en/:/en/",
-    "/content/test2/language-masters/fr/:/fr/",
-    "/content/test2/language-masters/fr:/fr",
-    "/content/test2/language-masters/es/:/es/",
-    "/content/test2/language-masters/es:/es",
-    "/content/test2/language-masters/ja/:/ja/",
-    "/content/test2/language-masters/ja:/ja",
-    "/content/test2/language-masters/de/:/de/",
-    "/content/test2/language-masters/de:/de",
-    "/content/test2/configuration:/.helix/config.json",
-    "/content/test2/metadata:/metadata.json",
-    "/content/test2/redirects:/redirects.json",
-    "/content/test2/placeholders:/placeholders.json"
+    "/content/sunday/language-masters/en:/",
+    "/content/sunday/language-masters/en/:/en/",
+    "/content/sunday/language-masters/fr/:/fr/",
+    "/content/sunday/language-masters/fr:/fr",
+    "/content/sunday/language-masters/es/:/es/",
+    "/content/sunday/language-masters/es:/es",
+    "/content/sunday/language-masters/ja/:/ja/",
+    "/content/sunday/language-masters/ja:/ja",
+    "/content/sunday/language-masters/de/:/de/",
+    "/content/sunday/language-masters/de:/de",
+    "/content/sunday/configuration:/.helix/config.json",
+    "/content/sunday/metadata:/metadata.json",
+    "/content/sunday/redirects:/redirects.json",
+    "/content/sunday/placeholders:/placeholders.json"
   ],
   "includes": [
     "/content/test2/",
