@@ -16,7 +16,7 @@
     "/content/sunday/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/test2/",
-    "/content/dam/test2/"
+    "/content/sunday/",
+    "/content/dam/sunday/"
   ]
 }
